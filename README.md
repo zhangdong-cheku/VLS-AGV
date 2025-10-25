@@ -6,4 +6,4 @@
 ## 加入交流群
 扫一扫，加入QQ群，一起手搓机器人
 
-![](VLS-AGV/pictures/QQ群.png)
+![](pictures/QQ群.png)
