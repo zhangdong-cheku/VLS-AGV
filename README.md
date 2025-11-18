@@ -10,4 +10,3 @@ In response to the problem of high cost of commercial automatic guided vehicle (
 ## 加入交流群
 扫一扫，加入QQ群，一起手搓机器人
 
-![](pictures/QQ群.png)
