@@ -6,10 +6,10 @@
 
 In response to the problem of high cost of commercial automatic guided vehicle (AGV) solutions, this project aims to provide users with a set of low-cost and redevelopable open-source AGV technical solutions. The core highlight is the combination of rotatable and vertical operation capabilities, supporting the development of external robotic arms. This ensures performance while reducing costs, making it suitable for flexible operations in scenarios such as material storage and retrieval in small and medium-sized warehouses, process transfer in workshops, sample handling in laboratories, and retail replenishment. The autonomous robot trolley is composed of five core levels: the chassis (for movement and shock absorption), the base (for load-bearing), the slewing bearing (for left and right direction adjustment), the linear sliding module (for up and down movement adjustment of the mechanical arm), and the mechanical arm expansion base (for function extension interface). The dimensions of the car's length, width and height are 680 mm×412 mm× 121 mm. Among them, the driving wheel is the encoder metering wheel, driven by a stepping motor, and the driven wheel is a universal rotating wheel. The chassis and the load-bearing base are connected by shock-absorbing springs to enhance the stability during driving. The weight of the superstructure and the grasped object is transferred to the load-bearing base through the hollow turntable. The hollow turntable is controlled by the servo, enabling the linear sliding module to rotate freely and achieving the rotational operation capability of the AGV forklift. The linear sliding module enables the vertical operation capability of AGV forklifts. The material of the mechanical arm expansion base is industrial aluminum profiles, which is convenient for movement and assembly. This expansion layer is available for users to develop independently to meet specific needs.
 
+<p align="center">
 <img src="./pictures/视图.png" width="800" />
 
 加入社区
 
-<img src="./pictures/QQ群.png" width="300" />
 <p align="center">
-  <img src="./pictures/QQ群.png" width="200" alt="项目logo">
+  <img src="./pictures/QQ群.png" width="400"/>
