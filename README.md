@@ -9,7 +9,7 @@ In response to the problem of high cost of commercial automatic guided vehicle (
 <p align="center">
 <img src="./pictures/视图.png" width="800" />
 
-加入社区
+# 加入社区
 
 <p align="center">
   <img src="./pictures/QQ群.png" width="400"/>
