@@ -14,7 +14,7 @@ In response to the problem of high cost of commercial automatic guided vehicle (
   <img src="./pictures/垂直滑台小车.gif" width="600" />
 
 ## 致谢
-“感谢项目组成员李小峰，田许杰在项目迭代与数据处理中做出的贡献，感谢张东老师在项目方案上的精准指导，也感谢项目组其他成员的通力协作。”
+感谢项目组成员李小峰，田许杰在项目迭代与数据处理中做出的贡献，感谢张东老师在项目方案上的精准指导，也感谢项目组其他成员的通力协作。
 
 ## 加入社区
 
